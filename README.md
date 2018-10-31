@@ -9,3 +9,5 @@ This is a readme for the project predicting New York Cities Taxi fare on Kaggle.
 exports a sampled file which composes 25% of the cleaned data
 - NYTaxi_manipulation_gcp.ipynb: this file runs on Google Cloud that transform and adding additional variable for analysis
 - NYTaxi_analysis_local.ipynb: this is the actual data analysis code runs on Jupyter Notebook offline
+- Plot: stores the heatmap that presents the distribution of pick-up and drop-off location. THe html file in Plot only used partial data 
+since the full data is too big
